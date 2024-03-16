@@ -1,7 +1,7 @@
 # Legal and Ethical Standards Lab ⚖️
 
 
-## Scenario 1
+## Scenario 1 🏦
 
 
 ### Is the company breaking any laws with their proposal?
@@ -14,17 +14,31 @@ Based on the description of scenario 1 the folowing questions arise:
 - When will the user be informed about the implementation of the new change?
 - How do they ensure that the third-party companies do not sell the infromation to other/addtional third-party companies?
 
-### What are the ethical concerns with the company's proposal *?
+### What are the ethical concerns with the company's proposal?
 - It does not seem ethical to offer further loans to people who are already financially struggling to pay off their initial debt with the bank. If anything, it could put them in a even worse financial situation than they were in proir by having them taking out more loans than they are qualified for/can handle.
-- How do they ensure that the algorithm used is not bias?
+- How do they ensure that the algorithm used is not bias? It is important that aglorithms do not discriminate any user groups.  
 
 ### What could the company do to address these issues?
 - The company should re-evaluate the morality of this partnership and conduct further research on the potential consequences it could have on the bank, it's customers, and it's reputation. 
 - Conduct further research on the third-party company on why they might have recently recieved negative publicity. Could it be becasue they might have operated unethically or broken the law?
-- Ensure that their users/customers are made aware of the new changes through multiple communication channels (most importantly it should be highlighted within the privacy policies).
+- Ensure that their users/customers are made aware of the new changes through multiple communication channels (most importantly it should be highlighted within the privacy policies). 
+- The bank should offer more transparency about the new changes that are being introduced and how user data is being handled.
 - Customers should have the right to opt-out from their data being sold to the PayDay loan company. (As everyone has the right for privacy!)
 
 
+## Scenario 2 🎮
 
+### Is the company breaking any laws with their proposal?
+It seems like the mobile game Treasure Hunters does not break any laws with their proposal of introducing a reward system and in-game currencies that can be purchased with real money. 
+However, do their objectives align with moral and ethical standards?  
+
+### What are the ethical concerns with the company's proposal?
+- The new changes suggests that the company is trying to create and addictive game design that holds a users attention hostage. This could cause a domino effect of issues that could arise ranging from physical to phycological complications. 
+- The users well-being might be at stake to a certain degree. Addiction can cause disruptions with a users ability to focus, memorise, learn, manage stress, manage realtionships, make adequate decisions. 
+- It could also cause financial strains which could result into the user committing crime to gain access to addtional funds to sattisfy their additction.  
+
+### What could the company do to address these issues?
+- The company could introduce time constraints allowing a user to only play for a healthy amount of time. This could prevent the development of an potential additiction. It could also help users to manage their addiction by reducing the amount of time they interact with the game. 
+- Instead of offering the option to pay-to-win stragetgies (purchasing progress), the company could monetise on in-game addons such as game characthers which do not contribute to the in-game progress that a user makes. 
 
 
