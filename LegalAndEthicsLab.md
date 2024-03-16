@@ -41,4 +41,21 @@ However, do their objectives align with moral and ethical standards?
 - The company could introduce time constraints allowing a user to only play for a healthy amount of time. This could prevent the development of an potential additiction. It could also help users to manage their addiction by reducing the amount of time they interact with the game. 
 - Instead of offering the option to pay-to-win stragetgies (purchasing progress), the company could monetise on in-game addons such as game characthers which do not contribute to the in-game progress that a user makes. 
 
+## Scenario 3 🌐
 
+### Is the company breaking any laws with their proposal?
+The company does not seem to break any lae with their proposal yet. It really depends on:
+- How they harvest user data
+- How the data is being managed/used
+- Do they have the user's consent.
+- How are the users being made aware of the changes? 
+- Do they have the option to opt-out from the new changes?
+
+### What are the ethical concerns with the company's proposal?
+- Is there a potential to introduce bias which could discrimintate certain user groups based on the infromation that they have provided about themselves.
+
+### What could the company do to address these issues?
+- The company should regularly sterss test their appliaction to ensure that users are not discriminated in any shape or form.
+- Any new changes introduced about the privacy and how the application operates should be communicated directly with the users.
+- The data of a user should only be shared to third-party companies if consent was given.
+- Users should have the option to disable the location based advertisements if they are not interested.
